@@ -11,7 +11,7 @@ While the world debates whether AI agents are dangerous, we built a governance s
 From Taiwan 🇹🇼 by X.B.X team.
 
 ---
-![Parallel Deployment](parallel-deployment.png)
+![Parallel Deployment](parallel-deployment.jpg)
 ---
 ## The Difference
 
