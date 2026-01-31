@@ -11,7 +11,8 @@ While the world debates whether AI agents are dangerous, we built a governance s
 From Taiwan 🇹🇼 by X.B.X team.
 
 ---
-
+![Parallel Deployment](parallel-deployment.png)
+---
 ## The Difference
 
 |  | Typical AI | Moltbot | Quan Family |
